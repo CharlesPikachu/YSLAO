@@ -14,7 +14,7 @@ Based on these analysis, two feasible strategies are proposed to enable each lev
 Specifically, one is to introduce auxiliary objective functions to make each backbone level directly receive the back-propagation signals of various-scale objects during training.
 The other is to construct the feature pyramid in a more reasonable way to avoid the irrational back-propagation paths.
 Extensive experiments on the COCO benchmark validate the soundness of our analysis and the effectiveness of our methods.
-Without bells and whistles, we demonstrate that our method achieves solid improvements (more than $2\%$) on various detection frameworks: one-stage, two-stage, anchor-based, anchor-free and transformer-based detectors.
+Without bells and whistles, we demonstrate that our method achieves solid improvements (more than 2%) on various detection frameworks: one-stage, two-stage, anchor-based, anchor-free and transformer-based detectors.
 
 
 ## Model Zoo
