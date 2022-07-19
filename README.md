@@ -1,6 +1,6 @@
 ## Introduction
 
-The official repository for "[You Should Look at All Objects]()".
+The official repository for "[You Should Look at All Objects](https://arxiv.org/pdf/2207.07889.pdf)".
 
 
 ## Abstract
@@ -15,8 +15,3 @@ Specifically, one is to introduce auxiliary objective functions to make each bac
 The other is to construct the feature pyramid in a more reasonable way to avoid the irrational back-propagation paths.
 Extensive experiments on the COCO benchmark validate the soundness of our analysis and the effectiveness of our methods.
 Without bells and whistles, we demonstrate that our method achieves solid improvements (more than 2%) on various detection frameworks: one-stage, two-stage, anchor-based, anchor-free and transformer-based detectors.
-
-
-## Model Zoo
-
-Coming soon.
